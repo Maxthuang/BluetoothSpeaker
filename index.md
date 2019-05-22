@@ -1,4 +1,18 @@
 # How to make a Bluetooth Speaker
+Hi. This is Max Huang from Bates College working on his final electronics project. He is making a wireless bluetooth 4.0 speaker! Why bluetooth? Come on. I know you cannot put down you phone for those seconds to plug into the wire or you don't even have a earphone plug like the new iPhones and iPads, so bluetooth 4.0 is one of your best and affordable bet. 
+
+This is really a simple weekend project that you can do, and it works really well. The basic cost is only $35 and with bluetooth component, it costs $50. Of course, you can spend more on it by buying better and lounder speakers or basses, and how you want to finish it to look, which is completely up to you to decide. 
+
+## Step 1: Gather all the components that you need. 
+Basic Components: [Sure Bluetooth 4.0 Audio Receiver](https://www.parts-express.com/sure-electronics-aa-ab41136-bluetooth-40-audio-receiver-board-aptx--edr-12-vdc--320-351), [Audio Digital Amplifier Board](https://www.parts-express.com/t-amp-tripath-ta2024-2-x-15w-audio-digital-amplifier-board--320-600), [12V 1250mA DC Power Supply](https://www.parts-express.com/12v-1250ma-dc-power-supply-ac-adapter-21-x-55mm-center-(-)-positive-plug--129-032), [Audio System Ground Loop Noise Filter Isolator Kit](https://www.parts-express.com/audio-system-ground-loop-noise-filter-isolator-kit--265-007), and [GRS 3FR-4 Full-Range 3" Speaker Driver 4 Ohm](https://www.parts-express.com/grs-3fr-4-full-range-3-speaker-driver-4-ohm--292-436)*2.
+
+Other Components: [DPDT Mini Toggle Switch](https://www.parts-express.com/dpdt-mini-toggle-switch--060-338)*2, and [100K Audio Taper Stereo Potentiometer 1/4" Shaft](https://www.parts-express.com/100k-audio-taper-stereo-potentiometer-1-4-shaft--023-652).
+
+You also probably will need a soldering station with soldering iron and solder. 
+
+## Step 2: Basic Circuit Diagram
+
+
 
 ## This is MAX
 
