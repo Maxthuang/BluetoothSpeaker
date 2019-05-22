@@ -40,10 +40,7 @@ Now you bluetooth module is shooting at full volume to the amplifier and thus to
 For my circuit, I also used two DPDT toggle switch. Connecting them to the circuit was a challenge for me becasue I had no idea how the toggle switch was designed. You can find the basic schematic diagram of DPDT toggle switch [here](http://musicfromouterspace.com/analogsynth_new/ELECTRONICS/pdf/switches_demystified_assembly.pdf). It's really helpful in understand how to connect them. I connected one in the power cable so I can turn the whole power off without unplug the power bank. I connected the 
 other one between the amplifier and speakers, so I can turn off the speaker without turning off the bluetooth module. 
 
-
-
-
-
+This work is based on the article by [Kevin Thornbloom](https://medium.com/@kthornbloom/how-to-build-a-bluetooth-speaker-b145dd7475af).
 
 
 
