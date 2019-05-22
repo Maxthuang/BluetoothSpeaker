@@ -31,12 +31,14 @@ For the bluetooth, it's tricky to change the device when it has been paired with
 
 Now, your speaker should be ready to make some noise. If it's buzzing when you are not touching it, try to find the source of buzzing by touching different components. It might stem from bad wire connection or different colored wire entangled together. Use the duck tape or heat shrink when necessary. 
 
-* Be careful when you tough different components. I was a bit electrified by doing this and it might pose some potential hazzards, in which I am not sure about since I am non-electrical engineering stduent. 
+* Be careful when you touch different components. I was a bit electrified by doing this and it might pose some potential hazzards, in which I am not sure about since I am non-electrical engineering stduent. 
 
 ## Step 4: Improvement
 
-Now you bluetooth module is shooting at full volume to the amplifier and thus the speakers. Of course, you what your speaker to be a bit fancier so you are going to add the volume control. This is achieved by using the potentiometer mentioned above and the manual about how to connect them can be found here
+Now you bluetooth module is shooting at full volume to the amplifier and thus to the speakers too. Of course, you what your speaker to be a bit fancier so you are going to add the volume control. This is achieved by using the potentiometer mentioned above. The manual about how to connect them can be found here [Manual](https://www.parts-express.com/pedocs/manuals/320-600-parts-express-ta2024-manual.pdf). This step is a bit complicated becasue there are lots of wiring and soldering. The whole circuit will stop working if two wires are touching each other, so make sure to use the duck tape and heat shrink whenever it's necessary. 
 
+For my circuit, I also used two DPDT toggle switch. Connecting them to the circuit was a challenge for me becasue I had no idea how the toggle switch was designed. You can find the basic schematic diagram of DPDT toggle switch [here](http://musicfromouterspace.com/analogsynth_new/ELECTRONICS/pdf/switches_demystified_assembly.pdf). It's really helpful in understand how to connect them. I connected one in the power cable so I can turn the whole power off without unplug the power bank. I connected the 
+other one between the amplifier and speakers, so I can turn off the speaker without turning off the bluetooth module. 
 
 
 
