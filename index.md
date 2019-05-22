@@ -11,7 +11,8 @@ Other Components: [DPDT Mini Toggle Switch](https://www.parts-express.com/dpdt-m
 You also probably will need a soldering station with soldering iron and solder. 
 
 ## Step 2: Basic Circuit Diagram
-
+We are showing our basic circuit diagram and the actual setup using the components mentioned before here. 
+![CircuitDiagram](circuit.png)
 
 
 ## This is MAX
