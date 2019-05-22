@@ -10,12 +10,36 @@ Other Components: [DPDT Mini Toggle Switch](https://www.parts-express.com/dpdt-m
 
 You also probably will need a soldering station with soldering iron and solder. 
 
-## Step 2: Basic Circuit Diagram
+## Step 2: Basic Circuit Diagram and Procedures
 We are showing our basic circuit diagram and the actual setup using the components mentioned before here. 
 ![CircuitDiagram](circuit.png)
+![Reference](Reference.jpeg)
+![CircuitDiagramR](Circuit.jpg)
 
 
-## This is MAX
+Since both amplifier and bluetooth module needs power supply and we don't want to have two power plug for this simple circuit, they are going to share one. We will cut the power cord into two pieces. Keep in mind you need to track down which one is the +12V one because the amplifier have specific requirements about which one is positive and which one is grounded. If you purchased the same power supply as I have, the positive one is the black cord with white stars and the other one is just totally black. 
+
+Now we are connecting the bluetooth to the amplifier, and there is a problem. Sharing a power source like we just did creates a ground loop that will make your speakers buzz! However, there is a easy fix to use the ground loop isolator. This ground loop isolator eliminates engine/alternator noise caused by ground loops in your system. Also great for eliminating line-level noise in home audio and home theater systems. 
+
+Ground loop can be easily connected to the bluetooth module. However, it is hard to connect to the amplifier. You need to cut one side of the group loop isolator. What you will find is that for the group loop isolator's cables, when you cut it, you will find a white and a red cable surrounded by wires. On the other side, there are three wires from the amplifier, red, white and black. So what do you do? The trick is that you just connect the red to red, white to white and the wireless surrounding red and white cables both to black! Then you are done. If not, the speaker will not be as loud as it should be! When making connections, some soldering will be necessary.
+
+
+## Step 3: Connect the Speakers
+Now you are ready to connect two speakers to the amplifier. Remember positive to positive and negative to negative. After the connection, plug into the power. You will see the bluetooth module's green light blinking. Take out you phone and connect to the bluetooth. 
+
+For the bluetooth, it's tricky to change the device when it has been paired with one device. What you need to do is to turn off the bluetooth of the device that is paired. When disconnect the bluetooth module from power supply and then connect it. By doing this, you will see the bluetooth module blinking again! It's time to pair the other device. 
+
+Now, your speaker should be ready to make some noise. If it's buzzing when you are not touching it, try to find the source of buzzing by touching different components. It might stem from bad wire connection or different colored wire entangled together. Use the duck tape or heat shrink when necessary. * Be careful when you tough different components. I was a bit electrified by doing this and it might pose some potential hazzards, in which I am not sure about since I am non-electrical engineering stduent. 
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Maxthuang/maxhuang/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
