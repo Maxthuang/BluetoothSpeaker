@@ -29,7 +29,13 @@ Now you are ready to connect two speakers to the amplifier. Remember positive to
 
 For the bluetooth, it's tricky to change the device when it has been paired with one device. What you need to do is to turn off the bluetooth of the device that is paired. When disconnect the bluetooth module from power supply and then connect it. By doing this, you will see the bluetooth module blinking again! It's time to pair the other device. 
 
-Now, your speaker should be ready to make some noise. If it's buzzing when you are not touching it, try to find the source of buzzing by touching different components. It might stem from bad wire connection or different colored wire entangled together. Use the duck tape or heat shrink when necessary. * Be careful when you tough different components. I was a bit electrified by doing this and it might pose some potential hazzards, in which I am not sure about since I am non-electrical engineering stduent. 
+Now, your speaker should be ready to make some noise. If it's buzzing when you are not touching it, try to find the source of buzzing by touching different components. It might stem from bad wire connection or different colored wire entangled together. Use the duck tape or heat shrink when necessary. 
+
+* Be careful when you tough different components. I was a bit electrified by doing this and it might pose some potential hazzards, in which I am not sure about since I am non-electrical engineering stduent. 
+
+## Step 4: Improvement
+
+Now you bluetooth module is shooting at full volume to the amplifier and thus the speakers. Of course, you what your speaker to be a bit fancier so you are going to add the volume control. This is achieved by using the potentiometer mentioned above and the manual about how to connect them can be found here
 
 
 
